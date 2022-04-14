@@ -1,0 +1,24 @@
+{
+  "name": "jdu-proxy",
+  "version": "1.0.0",
+  "description": "Open-source Just Dance Unlimited proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xarowi/jdu-proxy.git"
+  },
+  "keywords": [],
+  "author": "xarowi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xarowi/jdu-proxy/issues"
+  },
+  "homepage": "https://github.com/xarowi/jdu-proxy#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}
